@@ -1,0 +1,30 @@
+.header {
+color:#00d48a
+}
+h4 {
+    color:#00d48a ;
+
+}
+body{
+    background-color: aquamarine;
+}
+
+label {
+    color: #00d48a;
+    font-size: x-large;
+}
+#user_name{
+    width: 10%;
+  padding: 12px 20px;
+  margin: 8px;
+  box-sizing:content-box;
+  color: darkturquoise;
+ 
+}
+
+#login_button{
+    width: 10%;
+  padding: 12px 20px;
+  margin: 8px;
+  border-radius: 90px;
+}
